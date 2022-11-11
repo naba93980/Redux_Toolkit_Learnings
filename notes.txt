@@ -1,0 +1,3 @@
+1. create feature slice using createSlice fn which generates actions and reducers, 
+2. perform direct mutations on the state, where immer is used under the hood to generate new state object,
+3. create store using configStore function and attach reducer.

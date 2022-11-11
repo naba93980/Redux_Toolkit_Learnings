@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/naba93980/Redux_Toolkit_Learnings#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.0"
+    "@reduxjs/toolkit": "^1.9.0",
+    "redux-logger": "^3.0.6"
   }
 }
