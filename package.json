@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/naba93980/Redux_Toolkit_Learnings.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
